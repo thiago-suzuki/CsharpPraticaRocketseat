@@ -6,7 +6,7 @@ API em C# para realizar o uplodad de fotos no Google Drive
 - Framework: NET
 
 ## Observações Antes de Rodar
-Necessário configurar um arquivo .env para rodar com as seguintes configurações:
+Necessário configurar um arquivo .env dentro da pasta API para rodar com as seguintes configurações:
 ```bash
 Name="" # Name of email Google Drive
 Email="" # Email Google Drive
