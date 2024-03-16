@@ -19,7 +19,7 @@ ClientSecret="" # Client secret of Google App created
 ## Como usar o projeto
 - Ter o Visual Studio 2022
 - Abrir o SLN
-- Executar o HTTP
 - No Program.Cs do API, mudar em DataStore para o nome do seu correto
 - No GoogleDriveStorageService.cs do Infra, mudar em ApplicationName para o nome do seu correto
+- Executar o HTTP
 - Rodar no Swagger a rota: /api/Storage
