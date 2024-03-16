@@ -1,0 +1,6 @@
+@CsharpPraticaProject.API_HostAddress = http://localhost:5291
+
+GET {{CsharpPraticaProject.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
